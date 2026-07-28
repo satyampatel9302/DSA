@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7B2FFF,100:FF2D95&height=230&section=header&text=Satyam%20Kumar%20Patel&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=57&descSize=19)
+![Satyam Kumar Patel — Software Developer](./assets/profile-header.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=7B2FFF&center=true&vCenter=true&random=false&width=720&lines=Hi+there%2C+I'm+Satyam+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+Backend+Development;Building+secure+and+scalable+applications;DSA+enthusiast+%26+lifelong+learner)](https://git.io/typing-svg)
+### Hi there, I'm Satyam 👋
+
+`Java` • `Spring Boot` • `Backend Development` • `Secure & Scalable Applications`
 
 <p>
   <a href="https://github.com/satyampatel9302?tab=followers"><img src="https://img.shields.io/github/followers/satyampatel9302?label=Followers&style=for-the-badge&logo=github&color=7B2FFF" alt="GitHub followers" /></a>
@@ -87,34 +89,27 @@ const satyam = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyampatel9302&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Satyam's GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyampatel9302&theme=tokyonight&hide_border=true" alt="Satyam's GitHub streak" />
-  <br />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyampatel9302&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</div>
-
-> GitHub language cards show the languages in public repositories; they are not a measure of overall skill.
-
-## 📈 Contribution Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![Satyam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyampatel9302&bg_color=0d1117&color=9D7CFF&line=FF2D95&point=00C9FF&area=true&hide_border=true)](https://github.com/satyampatel9302)
+[![Repositories](https://img.shields.io/badge/Explore_My-Repositories-7B2FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyampatel9302?tab=repositories)
+[![Contributions](https://img.shields.io/badge/View_My-Contributions-00A98F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyampatel9302?tab=overview)
+[![Stars](https://img.shields.io/github/stars/satyampatel9302?affiliations=OWNER&style=for-the-badge&logo=github&color=FF2D95)](https://github.com/satyampatel9302?tab=repositories)
 
 </div>
+
+> My live contribution calendar, repository activity, and language usage are available directly on my [GitHub profile](https://github.com/satyampatel9302).
 
 ## 🚀 Featured Work
 
 <div align="center">
-  <a href="https://github.com/satyampatel9302/DSA">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=satyampatel9302&repo=DSA&theme=tokyonight&hide_border=true" alt="DSA repository" />
-  </a>
-  <a href="https://github.com/satyampatel9302/Protfolio">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=satyampatel9302&repo=Protfolio&theme=tokyonight&hide_border=true" alt="Portfolio repository" />
-  </a>
+
+| Project | Description | Link |
+|:---|:---|:---:|
+| **Data Structures & Algorithms** | Java problem-solving practice and core DSA concepts | [View Repository](https://github.com/satyampatel9302/DSA) |
+| **Developer Portfolio** | My projects, skills, experience, and developer journey | [Visit Website](https://satyam-view-profile.vercel.app/) |
+
 </div>
 
 ## 🤝 Connect With Me
@@ -138,6 +133,6 @@ const satyam = {
 
 ⭐ If you like my work, consider starring a repository!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF2D95,50:7B2FFF,100:00C9FF&height=120&section=footer&animation=fadeIn)
+![Profile footer](./assets/profile-footer.svg)
 
 </div>
