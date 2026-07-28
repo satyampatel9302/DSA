@@ -1,10 +1,16 @@
 <div align="center">
 
-![Satyam Kumar Patel — Software Developer](./assets/profile-header.svg)
+<h1>⚡ SATYAM KUMAR PATEL ⚡</h1>
 
-### Hi there, I'm Satyam 👋
+### Software Developer · Backend Engineer · Problem Solver
 
-`Java` • `Spring Boot` • `Backend Development` • `Secure & Scalable Applications`
+<p>
+  <code>DESIGN CLEAN</code>
+  &nbsp;◆&nbsp;
+  <code>BUILD SECURE</code>
+  &nbsp;◆&nbsp;
+  <code>SCALE WITH CONFIDENCE</code>
+</p>
 
 <p>
   <a href="https://github.com/satyampatel9302?tab=followers"><img src="https://img.shields.io/github/followers/satyampatel9302?label=Followers&style=for-the-badge&logo=github&color=7B2FFF" alt="GitHub followers" /></a>
@@ -12,20 +18,29 @@
   <a href="https://satyam-view-profile.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
+<p>
+  <a href="#-about-me">About</a> •
+  <a href="#️-tech-stack">Tech Stack</a> •
+  <a href="#-what-i-build">Expertise</a> •
+  <a href="#-featured-work">Projects</a> •
+  <a href="#-connect-with-me">Connect</a>
+</p>
+
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
-```javascript
-const satyam = {
-  name: "Satyam Kumar Patel",
-  role: "Software Developer",
-  username: "satyampatel9302",
-  core: ["Java", "Spring Boot", "MySQL", "Redis", "Kafka"],
-  security: ["Spring Security", "JWT", "OAuth 2.0", "RBAC"],
-  foundations: ["DSA", "OOP", "AOP", "C", "C++"],
-  motto: "Design clean. Build secure. Scale with confidence."
-};
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  DEVELOPER PROFILE                                           │
+├──────────────────────────────────────────────────────────────┤
+│  Name       Satyam Kumar Patel                               │
+│  Role       Software Developer                               │
+│  Focus      Java · Spring Boot · Backend Engineering         │
+│  Mission    Build secure, scalable and useful software       │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 - 💻 Software Developer focused on **Java and Spring Boot**
@@ -82,12 +97,26 @@ const satyam = {
 
 <div align="center">
 
-| ⚡ Backend Engineering | 🛡️ Application Security | 📡 Scalable Systems |
-|:---:|:---:|:---:|
-| REST APIs with Java & Spring Boot | JWT, OAuth 2.0 & Spring Security | Redis caching & Kafka messaging |
-| Layered architecture & clean code | Authentication, authorization & RBAC | MySQL-backed applications |
+| `01` ⚡ Backend Engineering | `02` 🛡️ Application Security | `03` 📡 Scalable Systems |
+|:---|:---|:---|
+| REST APIs | Spring Security | Redis caching |
+| Java & Spring Boot | JWT & OAuth 2.0 | Kafka messaging |
+| Layered architecture | Authentication & RBAC | MySQL persistence |
+| Clean, maintainable code | Authorization rules | Event-driven design |
 
 </div>
+
+### My Backend Blueprint
+
+```text
+Client
+  └── REST API
+       ├── Spring Security ── JWT / OAuth 2.0
+       ├── Controller ── Service ── Repository
+       ├── MySQL ── persistent data
+       ├── Redis ── high-speed cache
+       └── Kafka ── asynchronous events
+```
 
 ## 📊 GitHub Activity
 
@@ -133,6 +162,13 @@ const satyam = {
 
 ⭐ If you like my work, consider starring a repository!
 
-![Profile footer](./assets/profile-footer.svg)
+<br />
+
+`< Thanks for visiting — let's build something meaningful. />`
+
+<br />
+
+![Java](https://img.shields.io/badge/Powered_by-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Built_with-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 </div>
